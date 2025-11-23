@@ -9,3 +9,6 @@ The custom environment created in `maze_environment.py` is heavily based on [the
 # Usage
 
 The project environment (including all Python packages) is managed by [uv](https://docs.astral.sh/uv/). Once you do, simply run `uv sync` to setup the environment. 
+
+Then run the code with `uv run python3 -m src.main`.
+
