@@ -7,6 +7,9 @@ from gymnasium.utils.env_checker import check_env
 import os 
 
 from src.config import MAX_STEPS, GYM_ENV_NAME
+from src.agents import *
+
+
 
 def main():
 
